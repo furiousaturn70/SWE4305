@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Logbook/Logbook.iml" filepath="$PROJECT_DIR$/Logbook/Logbook.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SWE4305.iml" filepath="$PROJECT_DIR$/.idea/SWE4305.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/Week1.iml" filepath="$PROJECT_DIR$/Week1/Week1.iml" />
     </modules>
