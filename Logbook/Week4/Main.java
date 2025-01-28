@@ -1,4 +1,4 @@
-package Logbook.Week4;
+package src.Logbook.Week4;
 
 public class Main {
 }
